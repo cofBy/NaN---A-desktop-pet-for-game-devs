@@ -27,5 +27,6 @@ I also made a fullscreen shader that pixelates NaN and NaN, not only that but it
 Did you notice that the apps icons and every single UI sprite Is a pixelated render of a 3d model made in blender, If you didn't it's probably because of the shading technique seen in [this video](https://www.youtube.com/watch?v=PBIPJdEECWg&t=641s) by KitagawaGameDev
 
 # credits
-Every single thing : [me](https://cof99.itch.io).
-The font used : [datagoblin](https://datagoblin.itch.io).
+Every single thing : [me](https://cof99.itch.io)
+
+The font used : [datagoblin](https://datagoblin.itch.io)
