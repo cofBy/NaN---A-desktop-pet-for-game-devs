@@ -25,3 +25,7 @@ It works by making the windoes api make the window's margins negative which basi
 Then, I used my handy tool [P.A.U.T](https://github.com/cofBy/P.A.U.T) to animate his legs and arms.
 I also made a fullscreen shader that pixelates NaN and NaN, not only that but it also gives him an outline and changes his color to whatever you choosed in the lanucher
 Did you notice that the apps icons and every single UI sprite Is a pixelated render of a 3d model made in blender, If you didn't it's probably because of the shading technique seen in [this video](https://www.youtube.com/watch?v=PBIPJdEECWg&t=641s) by KitagawaGameDev
+
+# credits
+Every single thing : [me](https://cof99.itch.io)
+The font used : [datagoblin](https://datagoblin.itch.io)
