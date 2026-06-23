@@ -35,3 +35,7 @@ Did you notice that the app icons and every single UI sprite are pixelated rende
 Every single thing : [me](https://cof99.itch.io)
 
 The font used : [datagoblin](https://datagoblin.itch.io)
+
+# How to Install
+download the zipped folder from [here on github](https://cof99.itch.io/nan-the-desktop-pet) of from the [itch.io page](https://cof99.itch.io/nan-the-desktop-pet)
+Then, unzip the folder and open the .exe called NaN. You'll be met with the launcher where you can configure the settings.
